@@ -6,6 +6,7 @@ In dit GitHub-folder is de meest optimale Workflow van ons groep te vinden met b
 ## Link naar Workflow op Galaxy 
 
 Hier is het bestand te vinden in .ga formaat
+
 [Galaxy Workflow in .ga formaat](https://github.com/Okan-F/NGS-Opdracht/blob/main/Galaxy-Workflow-NGS_Workflow.ga)
 
 Hier is de link naar het meest optimale workflow (let op! Dit is uitgevoerd op de Europese Servers van Galaxy!)
