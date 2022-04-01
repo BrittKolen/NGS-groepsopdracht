@@ -13,4 +13,6 @@ Hier is de link naar het meest optimale workflow (let op! Dit is uitgevoerd op d
 
 ## Afbeelding van de Workflow met de ondergenomen stappen
 Hier is de Workflow in een overzicht waar te nemen
+
+
 ![image](https://user-images.githubusercontent.com/101555249/161255194-b3933310-774b-4051-98bd-47312061aa04.png)
