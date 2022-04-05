@@ -11,7 +11,7 @@ Hier is het bestand te vinden in .ga formaat
 
 Hier is de link naar het meest optimale workflow (let op! Dit is uitgevoerd op de Europese Servers van Galaxy!)
 
-[UseGalaxy](https://usegalaxy.eu/u/okan/w/ngs-workflow-1)
+[UseGalaxy](https://galaxy.atgm.avans.nl/u/lucinda/w/workflow-ngs-eindopdracht)
 
 ## Afbeelding van de Workflow met de ondergenomen stappen
 Hier is de Workflow in een overzicht waar te nemen
