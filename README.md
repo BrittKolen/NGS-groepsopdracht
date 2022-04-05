@@ -17,4 +17,4 @@ Hier is de link naar het meest optimale workflow (let op! Dit is uitgevoerd op d
 Hier is de Workflow in een overzicht waar te nemen
 
 
-![image](![MicrosoftTeams-image](https://user-images.githubusercontent.com/101555249/161709622-5009648a-c531-4c9b-86e7-7751e666916f.png))
+![image](https://user-images.githubusercontent.com/101555249/161709622-5009648a-c531-4c9b-86e7-7751e666916f.png)
